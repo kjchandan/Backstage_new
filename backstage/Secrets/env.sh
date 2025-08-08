@@ -1,9 +1,0 @@
-export GITHUB_TOKEN=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
-export AUTH_GITHUB_CLIENT_ID=Ov23li3tqGeBJBfmIRaQ
-export AUTH_GITHUB_CLIENT_SECRET=35b3dcc85ec506f8ee72561867d5fafda76e0935
-
-export POSTGRES_HOST=localhost
-export POSTGRES_PORT=5432
-export POSTGRES_USER=backstage
-export POSTGRES_PASSWORD=backstage
-export POSTGRES_DB=backstage
